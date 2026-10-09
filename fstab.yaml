@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url:  https://scotch-product-debatable.ngrok-free.dev/bin/franklin.delivery/anshikag-adobe/test-eds-forms/main
+    url:  https://author-p166722-e1787764.adobeaemcloud.com/bin/franklin.delivery/anshikag-adobe/test-eds-forms/main
     type: "markup"
     suffix: ".html"
